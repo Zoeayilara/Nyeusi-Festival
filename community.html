@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Nyeusi Festival | Community</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="images/favicon.jpg" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <script
+      src="https://kit.fontawesome.com/eb57cf8ccf.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <!-- Header -->
+    <header>
+      <div class="page-info">
+        <i class="header-icons fa fa-facebook-f"></i>
+        <i class="fa fa-twitter"></i>
+        <span class="info-label">English</span>
+        <span class="info-label">My Page</span>
+        <span class="info-label">Logout</span>
+      </div>
+      <div class="nav-bar">
+        <a href="index.html">
+          <img
+            src="images/nyeusi-logo.jpeg"
+            alt="Nyeusi Music Festival"
+            class="nav-logo"
+          />
+        </a>
+        <nav>
+          <div class="nav-links" id="navLinks">
+            <i class="fas fa-times" id="closeIcon"></i>
+            <ul class="nav-items" id="navItems">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="schedule.html">Schedule</a></li>
+              <li><a href="community.html">Community</a></li>
+              <li><a href="#sponsor">Sponsor</a></li>
+              <li><a href="#blog">Blog</a></li>
+            </ul>
+            <button class="btn" type="button">Buy Tickets</button>
+          </div>
+        </nav>
+        <i class="fas fa-bars" id="menuBar"></i>
+      </div>
+    </header>
+
+    <!-- Community Section -->
+    <section id="featureActs" class="featured-acts">
+      <span class="featured-title">Featured Acts</span>
+      <hr class="featured-solid" />
+      <div id="actContainer" class="acts-container"></div>
+      <button type="button" id="collapse" class="btn btn-collapse">
+        <span id="expand">More<i class="fas fa-angle-down"></i></span>
+        <span id="exit" class="hide">Less<i class="fas fa-angle-up"></i></span>
+      </button>
+    </section>
+
+    <!-- Footer -->
+    <div class="partner-section">
+      <div class="partner-container">
+        <h2>Partner</h2>
+        <hr class="solid" />
+        <div class="partner-logos">
+          <img class="heineken-logo" src="images/heineken.png" alt="Heineken" />
+          <img class="cocacola-logo" src="images/coca-cola.png" alt="CocaCola" />
+          <img class="samsung-logo" src="images/samsung.png" alt="Samsung" />
+          <img class="spotify-logo" src="images/spotify.png" alt="Spotify" />
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer-section">
+      <div class="footer-container">
+        <img
+          src="images/nyeusi-gray.png"
+          alt="Nyeusi Music Festival"
+          class="footer-logo"
+        />
+        <p class="index-footer-text">
+          2022 Nyeusi Music Festival <i class="far fa-registered"></i> Some rights reserved.
+        </p>
+      </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="javascript/acts.js"></script>
+    <script src="javascript/menu.js"></script>
+  </body>
+</html>
