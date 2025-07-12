@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple steps.
 - Run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
-git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
+git clone https://github.com/Zoeayilara/Nyeusi-Festival.git
 ```
 
 - Once the files are on your machine, open the **Nyeusi-Fest-Site** folder in [Visual Studio Code](https://code.visualstudio.com/download).
