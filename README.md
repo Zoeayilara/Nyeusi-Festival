@@ -29,8 +29,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Setup
 
-- With git, clone the code to your machine, or download a ZIP of all the files directly.
-- [Download the ZIP file from this location](https://github.com/shaqdeff/Nyeusi-Fest-Site/archive/refs/heads/main.zip) or run the following [git](https://git-scm.com/) command to clone the files to your machine:
+- With git, clone the code to your machine.
+- Run the following [git](https://git-scm.com/) command to clone the files to your machine:
 
 ```
 git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
@@ -40,7 +40,7 @@ git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
 
 ## Live Demo
 
-- See [Live Demo](https://shaqdeff.github.io/Nyeusi-Fest-Site/).
+- See [Live Demo](https://zoeayilara.github.io/Nyeusi-Festival/)
 
 ## Deployment
 
@@ -48,10 +48,9 @@ git clone https://github.com/shaqdeff/Nyeusi-Fest-Site.git
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Zoe Ayilara**
 
-- GitHub: [@shaqdeff](https://github.com/shaqdeff)
-- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
+- GitHub: [@zoeayilara](https://github.com/Zoeayilara)
 - LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
 
 ## 🤝 Contributing
@@ -64,7 +63,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Original design idea by [Cindy Shin](https://www.behance.net/adagio07) in Behance.
+- Original design idea by shaquille
 - Background photo by [Nick Kane](https://unsplash.com/@nickkane) on [Unsplash](https://unsplash.com/photos/NMx_9N2QC5o).
 - Lagos background Photo by [Samantha Gades](https://unsplash.com/@srosinger3997?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/fIHozNWfcvs).
 - Johannesburg background Photo by [Kate Trysh](https://unsplash.com/@katetrysh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/E5xQlNnngO0).
